@@ -225,6 +225,7 @@ const HIDDEN_SUBTREE_DEFINITION = {
                 { id: '_optionsSpellcheck', title: 'Spellcheck', type: 'contentWidget', icon: 'bx-check-double' },
                 { id: '_optionsPassword', title: 'Password', type: 'contentWidget', icon: 'bx-lock' },
                 { id: '_optionsEtapi', title: 'ETAPI', type: 'contentWidget', icon: 'bx-extension' },
+                { id: '_optionsWebhooks', title: 'Webhooks', type: 'contentWidget', icon: 'bx-link' },
                 { id: '_optionsBackup', title: 'Backup', type: 'contentWidget', icon: 'bx-data' },
                 { id: '_optionsSync', title: 'Sync', type: 'contentWidget', icon: 'bx-wifi' },
                 { id: '_optionsOther', title: 'Other', type: 'contentWidget', icon: 'bx-dots-horizontal' },

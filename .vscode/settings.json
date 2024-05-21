@@ -1,4 +1,12 @@
 {
   "editor.formatOnSave": true,
-  "files.eol": "\n"
+  "files.eol": "\n",
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "DB",
+      "database": "${workspaceFolder:trilium}/data/document.db"
+    }
+  ]
 }
